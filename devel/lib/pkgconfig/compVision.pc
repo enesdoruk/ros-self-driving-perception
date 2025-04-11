@@ -1,0 +1,8 @@
+prefix=/home/carf/carf_ROS/devel
+
+Name: compVision
+Description: Description of compVision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

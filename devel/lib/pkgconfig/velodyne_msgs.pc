@@ -1,0 +1,8 @@
+prefix=/home/carf/carf_ROS/devel
+
+Name: velodyne_msgs
+Description: Description of velodyne_msgs
+Version: 1.6.1
+Cflags: -I/home/carf/carf_ROS/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

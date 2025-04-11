@@ -1,0 +1,8 @@
+prefix=/home/carf/carf_ROS/devel
+
+Name: carf_lidar
+Description: Description of carf_lidar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
